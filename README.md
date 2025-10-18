@@ -1,26 +1,33 @@
-<h1 align="center">Hi, I'm <span style="color:#8A2BE2;">Ellii</span> 👋</h1>
-<h3 align="center">Cheat Developer • USA 🇺🇸 • She/Her</h3>
+<h1 align="center">
+  hi, i'm <span style="color:#1E90FF;">ellii</span> 👋
+</h1>
+<h3 align="center" style="font-weight:400; color:#bbb;">
+  cheat dev • female • skibidi toilet enthusiast
+</h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=advantagewtf&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=advantagewtf&label=profile%20views&color=1E90FF&style=for-the-badge" alt="profile views"/>
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=advantagewtf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=advantagewtf&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=advantagewtf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=advantagewtf&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/> </p>
 <br/>
 
+<h3 align="center" style="color:#1E90FF;">tech & tools</h3>
 <p align="center">
-  <a href="https://github.com/advantagewtf">
-    <img src="https://skillicons.dev/icons?i=cpp,python,linux,windows,vscode,github" />
+  <a href="https://github.com/advantagewtf" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp,python,windows,vscode,github,java" />
   </a>
 </p>
 
 <br/>
 
+<h3 align="center" style="color:#1E90FF;">quote: </h3>
+<p align="center" style="font-style:italic; color:#bbb;">
+"I will now go back to my cave and continue pulling stuff, I just had to do something else for a while. Some people relax with a nice drink by the pool, I relax by playing around with inline asm." - Torvalds, Linus
+</p>
+
+<br/>
