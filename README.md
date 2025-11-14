@@ -2,7 +2,7 @@
   hi, i'm <span style="color:#1E90FF;">ellii</span> 👋
 </h1>
 <h3 align="center" style="font-weight:400; color:#bbb;">
-  cheat dev • female • skibidi toilet enthusiast
+  cheat dev • female • skibidi toilet 
 </h3>
 
 <br/>
@@ -13,12 +13,12 @@
 
 <br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=advantagewtf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=advantagewtf&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moonlightrblx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=moonlightrblx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/> </p>
 <br/>
 
 <h3 align="center" style="color:#1E90FF;">tech & tools</h3>
 <p align="center">
-  <a href="https://github.com/advantagewtf" target="_blank">
+  <a href="https://github.com/moonlightrblx" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp,python,windows,vscode,github,java" />
   </a>
 </p>
