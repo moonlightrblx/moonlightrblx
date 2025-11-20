@@ -27,7 +27,7 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-"I will now go back to my cave and continue pulling stuff, I just had to do something else for a while. Some people relax with a nice drink by the pool, I relax by playing around with inline asm." - Torvalds, Linus
+“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine, Learn to Program
 </p>
 
 <br/>
