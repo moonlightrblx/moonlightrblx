@@ -1,9 +1,7 @@
 <h1 align="center">
   hi, i'm <span style="color:#1E90FF;">ellii</span> 👋
 </h1>
-<h3 align="center" style="font-weight:400; color:#bbb;">
-  cheat dev • female • skibidi toilet 
-</h3>
+
 
 <br/>
 
