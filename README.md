@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Programming isn’t about what you know; it’s about what you can figure out. – Chris Pine
+The task is, not so much to see what no one has yet seen; but to think what nobody has yet thought, about that which everybody sees.
 </p>
 <br/>
