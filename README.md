@@ -1,6 +1,31 @@
+<h1 align="center">
+  hi, i'm <span style="color:#1E90FF;">ellii</span> 👋
+</h1>
+
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=advantagewtf&label=profile%20views&color=1E90FF&style=for-the-badge" alt="profile views"/>
+</p>
+
+<br/>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moonlightrblx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=moonlightrblx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/> </p>
+<br/>
+
+<h3 align="center" style="color:#1E90FF;">tech & tools</h3>
+<p align="center">
+  <a href="https://github.com/moonlightrblx" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp,python,windows,vscode,github,java" />
+  </a>
+</p>
+
+<br/>
+
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-“Code is like humor. When you have to explain it, it’s bad. – Cory House”
+Simplicity is the soul of efficiency. – Austin Freeman
 </p>
 <br/>
-<!-- Updated: 2025-11-22 22:23:59 UTC UTC -->
+
