@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Trust yourself; you’re stronger than you realize.
+Islam was born to fight against tyranny.
 </p>
 <br/>
