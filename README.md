@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Our vision is to make the 21st century a century of peace.
+Act only according to that maxim whereby you can, at the same time, will that it should become a universal law.
 </p>
 <br/>
