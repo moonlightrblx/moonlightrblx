@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively.
+Trust yourself; you’re stronger than you realize.
 </p>
 <br/>
