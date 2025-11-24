@@ -1,6 +1,10 @@
 <h1 align="center">
-  hi, i'm <span style="color:#1E90FF;">ellii</span> 👋
+  hi, i'm <span style="color:#1E90FF;">ellii</span>
 </h1>
+
+<p align="center" style="color:#bbb;">
+  Owner of <b>Verze</b> & <b>Moonlight.cc</b>
+</p>
 
 <br/>
 
@@ -10,7 +14,11 @@
 
 <br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moonlightrblx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=moonlightrblx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moonlightrblx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moonlightrblx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
 <br/>
 
 <h3 align="center" style="color:#1E90FF;">tech & tools</h3>
@@ -22,7 +30,7 @@
 
 <br/>
 
-<h3 align="center" style="color:#1E90FF;">quote: </h3>
+<h3 align="center" style="color:#1E90FF;">quote:</h3>
 <p align="center" style="font-style:italic; color:#bbb;">
 Islam was born to fight against tyranny.
 </p>
