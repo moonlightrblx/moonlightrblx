@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+The soul finds peace in the simplest things.
 </p>
 <br/>
