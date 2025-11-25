@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-True joy is sharing what little we have.
+The advancement and diffusion of knowledge is the only guardian of true liberty.
 </p>
 <br/>
