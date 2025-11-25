@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The soul finds peace in the simplest things.
+If society will not admit of woman's free development, then society must be remodeled.
 </p>
 <br/>
