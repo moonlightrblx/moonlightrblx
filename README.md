@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If society will not admit of woman's free development, then society must be remodeled.
+Strength lies in gentleness and quiet understanding always.
 </p>
 <br/>
