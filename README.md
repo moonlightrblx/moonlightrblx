@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-my disk doesn't have serials if I say it doesn't fuck you valorant - conspiracy
+Your future is created by what you do today, not tomorrow. - Robert Kiyosaki
 </p>
 <br/>
