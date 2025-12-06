@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Do something today that your future self will thank you for. - Anonymous
+Don't let yesterday take up too much of today. - Will Rogers
 </p>
 <br/>
