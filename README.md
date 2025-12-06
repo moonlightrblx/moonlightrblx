@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Good judgment comes from experience, and experience comes from bad judgment. - Rita Mae Brown
+Action is the antidote to despair. - Joan Baez
 </p>
 <br/>
