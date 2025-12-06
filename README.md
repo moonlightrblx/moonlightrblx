@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Free percocet? Hell yeah hand it over - Nicole
+baby kitler is a bit cute - syr
 </p>
 <br/>
