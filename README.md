@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Your future is created by what you do today, not tomorrow. - Robert Kiyosaki
+When debugging, novices insert corrective code; experts remove defective code. - Richard Pattis
 </p>
 <br/>
