@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-baby kitler is a bit cute - syr
+my disk doesn't have serials if I say it doesn't fuck you valorant - conspiracy
 </p>
 <br/>
