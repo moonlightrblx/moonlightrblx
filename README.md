@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-He who is not courageous enough to take risks will accomplish nothing in life. - Muhammad Ali
+You don’t find willpower, you create it. - Anonymous
 </p>
 <br/>
