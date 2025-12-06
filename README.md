@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Don't let yesterday take up too much of today. - Will Rogers
+The most effective debugging tool is still careful thought, combined with judiciously placed print statements. - Brian Kernighan
 </p>
 <br/>
