@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-A river cuts through rock not because of its power, but because of its persistence. - Jim Watkins
+Work hard in silence, let your success be the noise. - Frank Ocean
 </p>
 <br/>
