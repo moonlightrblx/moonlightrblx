@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success is never owned; it is rented—and the rent is due every day. - Rory Vaden
+Simplicity is prerequisite for reliability. - Edsger W. Dijkstra
 </p>
 <br/>
