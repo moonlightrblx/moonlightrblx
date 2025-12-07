@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-You don’t find willpower, you create it. - Anonymous
+Success is never owned; it is rented—and the rent is due every day. - Rory Vaden
 </p>
 <br/>
