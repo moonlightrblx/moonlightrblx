@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success is how high you bounce when you hit bottom. - George S. Patton
+Comfort is the enemy of achievement. - Farrah Gray
 </p>
 <br/>
