@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Your life does not get better by chance, it gets better by change. - Jim Rohn
+Success is how high you bounce when you hit bottom. - George S. Patton
 </p>
 <br/>
