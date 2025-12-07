@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The future depends on what you do today. - Mahatma Gandhi
+A river cuts through rock not because of its power, but because of its persistence. - Jim Watkins
 </p>
 <br/>
