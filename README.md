@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-What you get by achieving your goals is not as important as what you become by achieving your goals. - Zig Ziglar
+The future depends on what you do today. - Mahatma Gandhi
 </p>
 <br/>
