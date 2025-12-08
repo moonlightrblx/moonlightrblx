@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Innovation distinguishes between a leader and a follower. - Steve Jobs
+Everything you’ve ever wanted is on the other side of discipline. - Anonymous
 </p>
 <br/>
