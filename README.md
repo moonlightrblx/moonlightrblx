@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The best way out is always through. - Robert Frost
+If opportunity doesn’t knock, build a door. - Milton Berle
 </p>
 <br/>
