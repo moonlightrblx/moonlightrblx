@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Every moment is a fresh beginning. - T.S. Eliot
+The secret of getting ahead is getting started. - Mark Twain
 </p>
 <br/>
