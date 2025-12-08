@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Don’t limit your challenges. Challenge your limits. - Anonymous
+Learning to write programs stretches your mind. - Bill Gates
 </p>
 <br/>
