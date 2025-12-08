@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success is the sum of details. - Harvey S. Firestone
+Be patient. Good things take time. - Anonymous
 </p>
 <br/>
