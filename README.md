@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Don’t stop when you’re tired. Stop when you’re done. - Anonymous
+Your life is as good as your mindset. - Anonymous
 </p>
 <br/>
