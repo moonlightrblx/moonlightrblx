@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Stay patient and trust your journey. - Anonymous
+Programming isn’t about what you know; it’s about what you can figure out. - Chris Pine
 </p>
 <br/>
