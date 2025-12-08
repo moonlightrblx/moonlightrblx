@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If you’re not willing to risk the usual, you’ll have to settle for the ordinary. - Jim Rohn
+Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway. - Earl Nightingale
 </p>
 <br/>
