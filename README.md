@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Discipline is doing what needs to be done even if you don’t want to. - Anonymous
+Stay patient and trust your journey. - Anonymous
 </p>
 <br/>
