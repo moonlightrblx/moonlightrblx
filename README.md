@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If at first you don’t succeed; call it version 1.0. - Anonymous
+If you’re going through hell, keep going. - Winston Churchill
 </p>
 <br/>
