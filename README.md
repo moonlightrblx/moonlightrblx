@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Be patient. Good things take time. - Anonymous
+Never let the fear of striking out keep you from playing the game. - Babe Ruth
 </p>
 <br/>
