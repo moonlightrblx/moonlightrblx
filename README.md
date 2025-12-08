@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-First, solve the problem. Then, write the code. - John Johnson
+Everything you’ve ever wanted is on the other side of discipline. - Anonymous
 </p>
 <br/>
