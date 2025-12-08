@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Comfort is the enemy of achievement. - Farrah Gray
+Success is the sum of details. - Harvey S. Firestone
 </p>
 <br/>
