@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Your life is as good as your mindset. - Anonymous
+The harder you work for something, the greater you’ll feel when you achieve it. - Anonymous
 </p>
 <br/>
