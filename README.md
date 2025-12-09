@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The harder you work for something, the greater you’ll feel when you achieve it. - Anonymous
+Don’t wait. The time will never be just right. - Napoleon Hill
 </p>
 <br/>
