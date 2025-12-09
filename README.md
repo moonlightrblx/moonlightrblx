@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-When you feel like quitting, remember why you started. - Anonymous
+The most important property of a program is whether it accomplishes the intention of its user. - C.A.R. Hoare
 </p>
 <br/>
