@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Keep your face always toward the sunshine—and shadows will fall behind you. - Walt Whitman
+When you feel like quitting, remember why you started. - Anonymous
 </p>
 <br/>
