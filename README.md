@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The most damaging phrase in the language is: “We’ve always done it this way.” - Grace Hopper
+Whether you think you can or you think you can’t, you’re right. - Henry Ford
 </p>
 <br/>
