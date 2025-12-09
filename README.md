@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-A year from now you may wish you had started today. - Karen Lamb
+Little things make big things happen. - John Wooden
 </p>
 <br/>
