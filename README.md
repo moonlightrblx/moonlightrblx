@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Little things make big things happen. - John Wooden
+You don’t have to be great to start, but you have to start to be great. - Zig Ziglar
 </p>
 <br/>
