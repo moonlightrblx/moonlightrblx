@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Your life is as good as your mindset. - Anonymous
+You become unstoppable when you work on things people can't take away: mindset, skill, character. - Anonymous
 </p>
 <br/>
