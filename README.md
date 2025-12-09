@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Your only limit is your mind. - Anonymous
+Programs are meant to be read by humans and executed by computers. - Donald Knuth
 </p>
 <br/>
