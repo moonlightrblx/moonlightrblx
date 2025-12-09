@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Don’t be pushed around by the fears in your mind. - Roy T. Bennett
+The most damaging phrase in the language is: “We’ve always done it this way.” - Grace Hopper
 </p>
 <br/>
