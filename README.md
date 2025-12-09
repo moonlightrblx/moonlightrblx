@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Don’t wait. The time will never be just right. - Napoleon Hill
+The best time to plant a tree was 20 years ago. The second-best time is now. - Chinese Proverb
 </p>
 <br/>
