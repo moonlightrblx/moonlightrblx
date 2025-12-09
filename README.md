@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Genius is 1% inspiration and 99% perspiration. - Thomas Edison
+If you want to lift yourself up, lift up someone else. - Booker T. Washington
 </p>
 <br/>
