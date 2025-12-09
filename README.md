@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If you’re going through hell, keep going. - Winston Churchill
+Keep your face always toward the sunshine—and shadows will fall behind you. - Walt Whitman
 </p>
 <br/>
