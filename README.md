@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success is not for the lazy. - Anonymous
+If you’re going through hell, keep going. - Winston Churchill
 </p>
 <br/>
