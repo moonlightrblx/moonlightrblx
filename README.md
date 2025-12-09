@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-You become unstoppable when you work on things people can't take away: mindset, skill, character. - Anonymous
+A year from now you may wish you had started today. - Karen Lamb
 </p>
 <br/>
