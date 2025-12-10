@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-You don’t have to be great to start, but you have to start to be great. - Zig Ziglar
+It’s not a bug. It’s an undocumented feature. - Anonymous
 </p>
 <br/>
