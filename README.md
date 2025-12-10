@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau
+It’s not a bug. It’s an undocumented feature. - Anonymous
 </p>
 <br/>
