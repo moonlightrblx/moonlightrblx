@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-In order to be irreplaceable, one must always be different. - Coco Chanel
+Starve your distractions, feed your focus. - Anonymous
 </p>
 <br/>
