@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The will to win means nothing without the will to prepare. - Juma Ikangaa
+Never stop learning, because life never stops teaching. - Anonymous
 </p>
 <br/>
