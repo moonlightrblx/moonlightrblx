@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The secret of getting ahead is getting started. - Mark Twain
+Success is built on persistence, not perfection. - Anonymous
 </p>
 <br/>
