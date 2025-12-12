@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success is liking yourself, liking what you do, and liking how you do it. - Maya Angelou
+A program is never less than 90% complete, and never more than 95% complete. - Terry Baker
 </p>
 <br/>
