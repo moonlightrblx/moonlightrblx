@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Wake up with determination. Go to bed with satisfaction. - Anonymous
+The secret of getting ahead is getting started. - Mark Twain
 </p>
 <br/>
