@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Experience is the name everyone gives to their mistakes. - Oscar Wilde
+Everything you’ve ever wanted is on the other side of discipline. - Anonymous
 </p>
 <br/>
