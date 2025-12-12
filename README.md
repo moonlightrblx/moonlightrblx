@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Energy and persistence conquer all things. - Benjamin Franklin
+If you want to change the world, change yourself. - Mahatma Gandhi
 </p>
 <br/>
