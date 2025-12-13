@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The key to success is to start before you are ready. - Marie Forleo
+Be so good they can’t ignore you. - Steve Martin
 </p>
 <br/>
