@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-What you do today can improve all your tomorrows. - Ralph Marston
+Make it work, make it right, make it fast. - Kent Beck
 </p>
 <br/>
