@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Programs must be written for people to read, and only incidentally for machines to execute. - Harold Abelson
+Experience is the name everyone gives to their mistakes. - Oscar Wilde
 </p>
 <br/>
