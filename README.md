@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Your passion is waiting for your courage to catch up. - Isabelle Lafleche
+Premature optimization is the root of all evil. - Donald Knuth
 </p>
 <br/>
