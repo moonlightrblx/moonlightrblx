@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Software is eating the world. - Marc Andreessen
+Programs must be written for people to read, and only incidentally for machines to execute. - Harold Abelson
 </p>
 <br/>
