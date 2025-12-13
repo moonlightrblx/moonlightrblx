@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Life is either a daring adventure or nothing at all. - Helen Keller
+Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill
 </p>
 <br/>
