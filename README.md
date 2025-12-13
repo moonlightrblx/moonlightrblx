@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The difference between ordinary and extraordinary is that little extra. - Jimmy Johnson
+Good code is its own best documentation. - Steve McConnell
 </p>
 <br/>
