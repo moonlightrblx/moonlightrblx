@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Do one thing every day that scares you. - Eleanor Roosevelt
+The difference between ordinary and extraordinary is that little extra. - Jimmy Johnson
 </p>
 <br/>
