@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill
+Hard choices, easy life. Easy choices, hard life. - Jerzy Gregorek
 </p>
 <br/>
