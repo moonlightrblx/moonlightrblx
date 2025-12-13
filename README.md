@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If you're tired, learn to rest, not to quit. - Banksy
+Action is the foundational key to all success. - Pablo Picasso
 </p>
 <br/>
