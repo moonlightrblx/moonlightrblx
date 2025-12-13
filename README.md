@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Action is the foundational key to all success. - Pablo Picasso
+It does not matter how slowly you go as long as you do not stop. - Confucius
 </p>
 <br/>
