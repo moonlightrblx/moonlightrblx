@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If you don’t make mistakes, you’re not working on hard enough problems. - Frank Wilczek
+Software is eating the world. - Marc Andreessen
 </p>
 <br/>
