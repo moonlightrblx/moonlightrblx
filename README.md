@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Be so good they can’t ignore you. - Steve Martin
+Do one thing every day that scares you. - Eleanor Roosevelt
 </p>
 <br/>
