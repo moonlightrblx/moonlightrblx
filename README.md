@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Make it work, make it right, make it fast. - Kent Beck
+Life is either a daring adventure or nothing at all. - Helen Keller
 </p>
 <br/>
