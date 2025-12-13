@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-It does not matter how slowly you go as long as you do not stop. - Confucius
+Don’t stop when you’re tired. Stop when you’re done. - Anonymous
 </p>
 <br/>
