@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success is liking yourself, liking what you do, and liking how you do it. - Maya Angelou
+If debugging is the process of removing bugs, then programming must be the process of putting them in. - Edsger W. Dijkstra
 </p>
 <br/>
