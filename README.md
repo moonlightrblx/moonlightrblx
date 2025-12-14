@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Turn your can'ts into cans and your dreams into plans. - Anonymous
+Bad programmers worry about the code. Good programmers worry about data structures and their relationships. - Linus Torvalds
 </p>
 <br/>
