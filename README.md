@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Programming is the art of algorithm design and the craft of debugging errant code. - Ellen Ullman
+Your life is as good as your mindset. - Anonymous
 </p>
 <br/>
