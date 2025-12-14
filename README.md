@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Be yourself; everyone else is already taken. - Oscar Wilde
+Success is liking yourself, liking what you do, and liking how you do it. - Maya Angelou
 </p>
 <br/>
