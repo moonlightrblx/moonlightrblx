@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If debugging is the process of removing bugs, then programming must be the process of putting them in. - Edsger W. Dijkstra
+Your only limit is your mind. - Anonymous
 </p>
 <br/>
