@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Bad programmers worry about the code. Good programmers worry about data structures and their relationships. - Linus Torvalds
+Programming is the art of algorithm design and the craft of debugging errant code. - Ellen Ullman
 </p>
 <br/>
