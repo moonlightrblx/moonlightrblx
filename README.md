@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-It always seems impossible until it's done. - Nelson Mandela
+If at first you don’t succeed; call it version 1.0. - Anonymous
 </p>
 <br/>
