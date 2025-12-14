@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If you automate a mess, you get an automated mess. - Rod Michael
+Stay hungry, stay foolish. - Steve Jobs
 </p>
 <br/>
