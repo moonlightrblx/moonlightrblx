@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson
+Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. - Patrick McKenzie
 </p>
 <br/>
