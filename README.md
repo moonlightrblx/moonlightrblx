@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Make each day your masterpiece. - John Wooden
+Turn your can'ts into cans and your dreams into plans. - Anonymous
 </p>
 <br/>
