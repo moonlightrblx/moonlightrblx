@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. - Patrick McKenzie
+If you automate a mess, you get an automated mess. - Rod Michael
 </p>
 <br/>
