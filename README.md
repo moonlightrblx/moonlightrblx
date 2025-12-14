@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Courage is resistance to fear, mastery of fear—not absence of fear. - Mark Twain
+Big journeys begin with small steps. - Anonymous
 </p>
 <br/>
