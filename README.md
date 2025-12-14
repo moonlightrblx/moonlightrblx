@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Computers are fast; programmers keep it slow. - Anonymous
+The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson
 </p>
 <br/>
