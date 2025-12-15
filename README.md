@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Do what you can, with what you have, where you are. - Theodore Roosevelt
+A setback is a setup for a comeback. - T.D. Jakes
 </p>
 <br/>
