@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The best way to predict the future is to invent it. - Alan Kay
+Every moment is a fresh beginning. - T.S. Eliot
 </p>
 <br/>
