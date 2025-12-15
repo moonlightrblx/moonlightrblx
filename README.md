@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If you think math is hard, try programming. - Anonymous
+The best error message is the one that never shows up. - Thomas Fuchs
 </p>
 <br/>
