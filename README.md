@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The only limits in life are the ones you make. - Anonymous
+When you feel like quitting, remember why you started. - Anonymous
 </p>
 <br/>
