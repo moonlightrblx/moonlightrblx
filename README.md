@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-When you feel like quitting, remember why you started. - Anonymous
+Do something today that your future self will thank you for. - Anonymous
 </p>
 <br/>
