@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Your only limit is your mind. - Anonymous
+Success starts with self-discipline. - Anonymous
 </p>
 <br/>
