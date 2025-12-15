@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Every moment is a fresh beginning. - T.S. Eliot
+Act as if what you do makes a difference. It does. - William James
 </p>
 <br/>
