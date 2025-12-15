@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-A setback is a setup for a comeback. - T.D. Jakes
+Success is a state of mind. If you want success, start thinking of yourself as a success. - Joyce Brothers
 </p>
 <br/>
