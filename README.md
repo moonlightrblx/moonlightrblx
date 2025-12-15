@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-It's always too early to quit. - Norman Vincent Peale
+If you think math is hard, try programming. - Anonymous
 </p>
 <br/>
