@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Act as if what you do makes a difference. It does. - William James
+Believe you can and you're halfway there. - Theodore Roosevelt
 </p>
 <br/>
