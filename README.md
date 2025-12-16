@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-A goal without a plan is just a wish. - Antoine de Saint-Exupéry
+What you do today matters more than what you plan to do tomorrow. - Anonymous
 </p>
 <br/>
