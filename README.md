@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Perfect is the enemy of good. - Voltaire
+Act or accept. - Anonymous
 </p>
 <br/>
