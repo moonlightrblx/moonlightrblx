@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-We are what we repeatedly do. Excellence, then, is not an act, but a habit. - Aristotle
+Do one thing every day that scares you. - Eleanor Roosevelt
 </p>
 <br/>
