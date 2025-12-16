@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-You don’t find willpower, you create it. - Anonymous
+Action is the antidote to despair. - Joan Baez
 </p>
 <br/>
