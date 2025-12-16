@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Do one thing every day that scares you. - Eleanor Roosevelt
+Software and cathedrals are much the same — first we build them, then we pray. - Sam Redwine
 </p>
 <br/>
