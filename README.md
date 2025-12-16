@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If you can dream it, you can do it. - Walt Disney
+We are what we repeatedly do. Excellence, then, is not an act, but a habit. - Aristotle
 </p>
 <br/>
