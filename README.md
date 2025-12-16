@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-What you do today matters more than what you plan to do tomorrow. - Anonymous
+Believe you deserve it and the universe will serve it. - Anonymous
 </p>
 <br/>
