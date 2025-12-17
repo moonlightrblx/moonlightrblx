@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Work hard, stay humble. - Anonymous
+Don’t call it a dream, call it a plan. - Anonymous
 </p>
 <br/>
