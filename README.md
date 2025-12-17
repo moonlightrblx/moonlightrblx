@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Good judgment comes from experience, and experience comes from bad judgment. - Rita Mae Brown
+Small steps in the right direction can turn out to be the biggest steps of your life. - Anonymous
 </p>
 <br/>
