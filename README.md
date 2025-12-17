@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Opportunities don't happen. You create them. - Chris Grosser
+The harder you work, the luckier you get. - Gary Player
 </p>
 <br/>
