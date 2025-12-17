@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Don’t watch the clock; do what it does. Keep going. - Sam Levenson
+Failure is the condiment that gives success its flavor. - Truman Capote
 </p>
 <br/>
