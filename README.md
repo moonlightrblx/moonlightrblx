@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Life is 10% what happens to us and 90% how we react to it. - Charles R. Swindoll
+Be patient. Good things take time. - Anonymous
 </p>
 <br/>
