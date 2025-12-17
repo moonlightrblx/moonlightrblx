@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-If you want to lift yourself up, lift up someone else. - Booker T. Washington
+A year from now you may wish you had started today. - Karen Lamb
 </p>
 <br/>
