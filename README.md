@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Good things come to people who wait, but better things come to those who go out and get them. - Anonymous
+When the why is clear, the how is easy. - Anonymous
 </p>
 <br/>
