@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-When the why is clear, the how is easy. - Anonymous
+Believe you deserve it and the universe will serve it. - Anonymous
 </p>
 <br/>
