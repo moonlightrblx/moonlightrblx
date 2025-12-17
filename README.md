@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Never stop learning, because life never stops teaching. - Anonymous
+Work hard, stay humble. - Anonymous
 </p>
 <br/>
