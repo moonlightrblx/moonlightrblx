@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Don’t count the days, make the days count. - Muhammad Ali
+The future depends on what you do today. - Mahatma Gandhi
 </p>
 <br/>
