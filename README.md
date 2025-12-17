@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Failure is the condiment that gives success its flavor. - Truman Capote
+The key to success is to start before you are ready. - Marie Forleo
 </p>
 <br/>
