@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Small steps in the right direction can turn out to be the biggest steps of your life. - Anonymous
+Success is not for the lazy. - Anonymous
 </p>
 <br/>
