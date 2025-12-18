@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Knowledge is power. - Francis Bacon
+The function of good software is to make the complex appear simple. - Grady Booch
 </p>
 <br/>
