@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success is not for the lazy. - Anonymous
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 </p>
 <br/>
