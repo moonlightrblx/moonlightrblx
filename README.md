@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Stars can’t shine without darkness. - D.H. Sidebottom
+Simple things should be simple, complex things should be possible. - Alan Kay
 </p>
 <br/>
