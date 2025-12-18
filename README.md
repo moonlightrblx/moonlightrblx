@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-In the middle of difficulty lies opportunity. - Albert Einstein
+Courage is the commitment to begin without any guarantee of success. - Johann Wolfgang von Goethe
 </p>
 <br/>
