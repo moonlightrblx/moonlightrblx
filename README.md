@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+Today is your opportunity to build the tomorrow you want. - Ken Poirot
 </p>
 <br/>
