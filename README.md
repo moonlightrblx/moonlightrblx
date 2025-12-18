@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Simple things should be simple, complex things should be possible. - Alan Kay
+In the middle of difficulty lies opportunity. - Albert Einstein
 </p>
 <br/>
