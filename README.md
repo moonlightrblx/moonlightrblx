@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Learning never exhausts the mind. - Leonardo da Vinci
+Do not wait to strike till the iron is hot; but make it hot by striking. - William Butler Yeats
 </p>
 <br/>
