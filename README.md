@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-What we think, we become. - Buddha
+Learning never exhausts the mind. - Leonardo da Vinci
 </p>
 <br/>
