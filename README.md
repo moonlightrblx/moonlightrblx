@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The function of good software is to make the complex appear simple. - Grady Booch
+Be stronger than your excuses. - Anonymous
 </p>
 <br/>
