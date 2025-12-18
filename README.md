@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Dream it. Wish it. Do it. - Anonymous
+Stars can’t shine without darkness. - D.H. Sidebottom
 </p>
 <br/>
