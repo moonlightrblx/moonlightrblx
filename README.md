@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-We generate fears while we sit. We overcome them by action. - Dr. Henry Link
+Everything you’ve ever wanted is on the other side of fear. - George Addair
 </p>
 <br/>
