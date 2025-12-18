@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Failure is not falling down but refusing to get up. - Chinese Proverb
+A goal without a plan is just a wish. - Antoine de Saint-Exupéry
 </p>
 <br/>
