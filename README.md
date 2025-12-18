@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Live less out of habit and more out of intent. - Anonymous
+Change your thoughts and you change your world. - Norman Vincent Peale
 </p>
 <br/>
