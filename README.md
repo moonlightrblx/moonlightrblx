@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Be stronger than your excuses. - Anonymous
+Good code is its own best documentation. - Steve McConnell
 </p>
 <br/>
