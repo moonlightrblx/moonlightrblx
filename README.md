@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Starve your distractions, feed your focus. - Anonymous
+Success demands singleness of purpose. - Vince Lombardi
 </p>
 <br/>
