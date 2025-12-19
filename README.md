@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Learning to write programs stretches your mind. - Bill Gates
+Don’t wait. The time will never be just right. - Napoleon Hill
 </p>
 <br/>
