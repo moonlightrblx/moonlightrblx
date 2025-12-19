@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Optimism is an occupational hazard of programming. Feedback is the treatment. - Kent Beck
+The journey of a thousand miles begins with one step. - Lao Tzu
 </p>
 <br/>
