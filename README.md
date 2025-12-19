@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-There are two ways to write error-free programs; only the third one works. - Alan Perlis
+Simplicity is prerequisite for reliability. - Edsger W. Dijkstra
 </p>
 <br/>
