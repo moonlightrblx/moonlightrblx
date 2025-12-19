@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Don’t fear failure. Fear being in the exact same place next year. - Anonymous
+Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 </p>
 <br/>
