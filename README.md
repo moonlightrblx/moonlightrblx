@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Whether you think you can or you think you can’t, you’re right. - Henry Ford
+Don’t fear failure. Fear being in the exact same place next year. - Anonymous
 </p>
 <br/>
