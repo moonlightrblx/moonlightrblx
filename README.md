@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Failure is not falling down but refusing to get up. - Chinese Proverb
+Energy and persistence conquer all things. - Benjamin Franklin
 </p>
 <br/>
