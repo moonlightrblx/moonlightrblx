@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-The journey of a thousand miles begins with one step. - Lao Tzu
+Whether you think you can or you think you can’t, you’re right. - Henry Ford
 </p>
 <br/>
