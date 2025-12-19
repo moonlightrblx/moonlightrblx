@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Everything you’ve ever wanted is on the other side of discipline. - Anonymous
+The best performance improvement is the transition from the nonworking state to the working state. - John Ousterhout
 </p>
 <br/>
