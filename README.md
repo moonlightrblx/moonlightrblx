@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Good code is its own best documentation. - Steve McConnell
+You’re braver than you believe, stronger than you seem, and smarter than you think. - A.A. Milne
 </p>
 <br/>
