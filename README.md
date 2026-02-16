@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-We become what we repeatedly do. - Aristotle
+If you want it, work for it. - Anonymous
 </p>
 <br/>
