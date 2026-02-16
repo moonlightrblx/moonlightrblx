@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Don't wish for it; work for it. - Anonymous
+If you’re not willing to risk the usual, you’ll have to settle for the ordinary. - Jim Rohn
 </p>
 <br/>
