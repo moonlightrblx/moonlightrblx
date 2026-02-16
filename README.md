@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-A goal without a plan is just a wish. - Antoine de Saint-Exupéry
+Results happen over time, not overnight. - Anonymous
 </p>
 <br/>
