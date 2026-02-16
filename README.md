@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-We generate fears while we sit. We overcome them by action. - Dr. Henry Link
+It's always too early to quit. - Norman Vincent Peale
 </p>
 <br/>
