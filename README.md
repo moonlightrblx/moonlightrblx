@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Great things never come from comfort zones. - Anonymous
+In order to be irreplaceable, one must always be different. - Coco Chanel
 </p>
 <br/>
