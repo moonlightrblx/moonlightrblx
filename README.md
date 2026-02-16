@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-It's always too early to quit. - Norman Vincent Peale
+Talk is cheap. Show me the code. - Linus Torvalds
 </p>
 <br/>
