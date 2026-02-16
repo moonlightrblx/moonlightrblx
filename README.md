@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Success is not in what you have, but who you are. - Bo Bennett
+Consistency is harder when no one is clapping for you. - Anonymous
 </p>
 <br/>
