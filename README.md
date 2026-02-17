@@ -24,6 +24,6 @@
 
 <h3 align="center" style="color:#1E90FF;">quote: </h3>
 <p align="center" style="font-style:italic; color:#bbb;">
-Talk is cheap. Show me the code. - Linus Torvalds
+Failure is not falling down but refusing to get up. - Chinese Proverb
 </p>
 <br/>
